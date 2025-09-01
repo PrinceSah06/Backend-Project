@@ -1,16 +1,1 @@
-{"type":"module",
-  "name": "devtinder",
-  "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "Prince",
-  
-  "main": "app.js",
-  "scripts": {
-     "dev": "nodemon ./src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "express": "^5.1.0"
-  }
-}
+{"type":"module","name":"devtinder","version":"1.0.0","description":"","license":"ISC","author":"Prince","main":"app.js","scripts":{"dev":"nodemon ./src/index.js","test":"echo \"Error: no test specified\" && exit 1"},"dependencies":{"express":"^5.1.0","prettier":"^3.6.2"}}
